@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR5a0330/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 杜蘭香別傳杜蘭香自稱南陽人以建興四年春數詣張傅傅年十七望見車在門外婢通言阿母所生遣授配君君不可不敬從傅先改名碩碩呼女前視可十七八說事邈然久遠有婢子二人大者萱支小者松支鈿車青牛上飲食皆備作詩曰阿母處靈嶽時遊雲霄際衆女侍羽儀不出墉宮外飄輪送我來且復恥塵穢從我與福俱嫌我與禍會至其年八月旦來復作詩曰逍遙雲霧間呼嗟發九疑流女不稽路弱水何不之出薯蕷子三枚大如雞子云食此令君不畏風波辟寒溫碩食二留一不肯令碩盡食言本為君作妻情無曠遠以年命未合其小乖太歲東方卯當還求君蘭香降張碩碩問禱祀何如香曰消摩自可愈疾淫祀無益蘭香以藥為消摩
+  hash: sha256:c6d15938b85153f00653deecf3abd232c0fd1a31ee5e26468cc3d5cf6d3d361d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR5a0330_CHANT_001-1a.1-h}
+metadata:
+  title: 杜蘭香別傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0330.xml
+hash: sha256:92bb555b1e9168a9daddb008837494e0f1a330efb342374178252ac0f175dd31

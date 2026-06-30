@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR5a0330/v1
+canonical_location: https://kanripo.org/bkk/KR5a0330/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 杜蘭香別傳
+  identifiers:
+    alt_id:
+    - CH2a1533
+  tags:
+    kr-categories: KR5a
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR5a0330.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR5a0330_001.yaml, hash: 'sha256:92bb555b1e9168a9daddb008837494e0f1a330efb342374178252ac0f175dd31'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5a0330_001.markers.yaml, hash: 'sha256:ea99f62ab1fa7b2d0a7494118863f009576901ba6ac536b995abcdec253f1710'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0330_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 256
+  label: 杜蘭香別傳
+  type: section
+  level: 1
+hash: sha256:45a1c89e665b783bf0b414d88fd621025cf589d40c4a4fe52ccb6170f938a903
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
