@@ -18,9 +18,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR5a0330_001.yaml, hash: 'sha256:92bb555b1e9168a9daddb008837494e0f1a330efb342374178252ac0f175dd31'}
+  - {seq: 1, filename: KR5a0330_001.yaml, hash: 'sha256:127fbf41eadb3e45ee47fd2d8ea64a0211aba518345224ece8b5b71621349766'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5a0330_001.markers.yaml, hash: 'sha256:ea99f62ab1fa7b2d0a7494118863f009576901ba6ac536b995abcdec253f1710'}
+  - {seq: 1, role: markers, filename: assets/KR5a0330_001.markers.yaml, hash: 'sha256:22bca604c0b5972976485c67fbf0a17ac0285e33e6815b02b809a0c2bb2c7e7d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,7 +32,4 @@ table_of_contents:
   label: 杜蘭香別傳
   type: section
   level: 1
-hash: sha256:45a1c89e665b783bf0b414d88fd621025cf589d40c4a4fe52ccb6170f938a903
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:79a0ce4dd406e91e9c0211de1982e924c67e3ff7e3d378aed898dd51ca0ad286
